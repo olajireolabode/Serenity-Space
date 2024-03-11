@@ -1,0 +1,134 @@
+{
+  "foods": [
+    {
+      "name": "Salmon",
+      "imgPath": "assets/salmon.jpg",
+      "description": "Salmon is a fatty fish rich in omega-3 fatty acids, which are beneficial for brain health and may contribute to stress reduction."
+    },
+    {
+      "name": "Blueberries",
+      "imgPath": "assets/blueberries.jpg",
+      "description": "Blueberries are packed with antioxidants and vitamins, providing a refreshing and nutritious option that may help combat oxidative stress."
+    },
+    {
+      "name": "Chamomile Tea",
+      "imgPath": "assets/chamomile_tea.jpg",
+      "description": "Chamomile tea is known for its calming properties and is often consumed to promote relaxation and improve sleep."
+    },
+    {
+      "name": "Quinoa",
+      "imgPath": "assets/quinoa.jpg",
+      "description": "Quinoa is a whole grain that contains complex carbohydrates and proteins, contributing to stable energy levels and a sense of fullness."
+    },
+    {
+      "name": "Almonds",
+      "imgPath": "assets/almonds.png",
+      "description": "Almonds are a good source of magnesium, which can have a calming effect on the nervous system. They also provide healthy fats."
+    },
+    {
+      "name": "Avocado",
+      "imgPath": "assets/avocado.jpg",
+      "description": "Avocado is rich in monounsaturated fats and potassium, contributing to heart health and providing a creamy, satisfying texture."
+    },
+    {
+      "name": "Spinach",
+      "imgPath": "assets/spinach.jpg",
+      "description": "Spinach is a leafy green vegetable rich in magnesium and other nutrients, supporting overall health and well-being."
+    },
+    {
+      "name": "Dark Chocolate",
+      "imgPath": "assets/dark_chocolate.jpg",
+      "description": "Dark chocolate contains flavonoids and compounds that may have mood-enhancing effects, but should be enjoyed in moderation."
+    },
+    {
+      "name": "Oatmeal",
+      "imgPath": "assets/oatmeal.jpg",
+      "description": "Oatmeal is a comforting and hearty breakfast option, rich in complex carbohydrates and fiber, providing a sustained release of energy."
+    },
+    {
+      "name": "Yogurt with Berries",
+      "imgPath": "assets/yogurt_berries.jpeg",
+      "description": "Yogurt with berries combines the probiotics in yogurt with the antioxidants in berries, supporting both gut health and overall well-being."
+    },
+    {
+      "name": "Green Tea",
+      "imgPath": "assets/green_tea.jpg",
+      "description": "Green tea contains L-theanine, an amino acid that has calming effects and can promote relaxation without drowsiness."
+    },
+    {
+      "name": "Sweet Potatoes",
+      "imgPath": "assets/sweet_potatoes.jpg",
+      "description": "Sweet potatoes are rich in complex carbohydrates and fiber, providing a steady release of energy and a sense of satisfaction."
+    },
+    {
+      "name": "Turkey",
+      "imgPath": "assets/turkey.jpg",
+      "description": "Turkey is a good source of tryptophan, an amino acid that contributes to the production of serotonin, promoting a sense of calm and well-being."
+    },
+    {
+      "name": "Honey",
+      "imgPath": "assets/honey.jpeg",
+      "description": "Honey has natural sugars that can help regulate the release of serotonin, contributing to a stable mood and relaxation."
+    },
+    {
+      "name": "Broccoli",
+      "imgPath": "assets/broccoli.jpg",
+      "description": "Broccoli is rich in vitamins and minerals, including magnesium, supporting a healthy nervous system and stress management."
+    },
+    {
+      "name": "Cottage Cheese",
+      "imgPath": "assets/cottage_cheese.jpg",
+      "description": "Cottage cheese is a good source of protein and also contains tryptophan, contributing to a sense of calm and relaxation."
+    },
+    {
+      "name": "Chia Seed Pudding",
+      "imgPath": "assets/chia_seed_pudding.jpg",
+      "description": "Chia seeds are rich in omega-3 fatty acids and can be combined with milk or yogurt to make a delicious and nutritious pudding."
+    },
+    {
+      "name": "Bananas",
+      "imgPath": "assets/bananas.jpg",
+      "description": "Bananas contain potassium and vitamin B6, which are important for the production of serotonin and can promote a calm mood."
+    },
+    {
+      "name": "Walnuts",
+      "imgPath": "assets/walnuts.jpg",
+      "description": "Walnuts are rich in omega-3 fatty acids and antioxidants, supporting brain health and potentially reducing stress."
+    },
+    {
+      "name": "Mango",
+      "imgPath": "assets/mango.jpg",
+      "description": "Mango is a tropical fruit rich in vitamins and antioxidants, providing a sweet and refreshing option with potential mood-boosting effects."
+    },
+    {
+      "name": "Asparagus",
+      "imgPath": "assets/asparagus.jpeg",
+      "description": "Asparagus is a nutrient-dense vegetable that contains folate, which plays a role in mood regulation and stress reduction."
+    },
+    {
+      "name": "Pumpkin Seeds",
+      "imgPath": "assets/pumpkin_seeds.jpg",
+      "description": "Pumpkin seeds are a good source of magnesium, helping to relax muscles and potentially contribute to stress relief."
+    },
+    {
+      "name": "Chickpeas",
+      "imgPath": "assets/chickpeas.jpg",
+      "description": "Chickpeas are a versatile legume rich in protein and fiber, providing a satisfying and nutrient-dense option for stress management."
+    },
+    {
+      "name": "Lavender-infused Water",
+      "imgPath": "assets/lavender_water.jpg",
+      "description": "Lavender has calming properties, and infusing water with lavender can create a soothing and hydrating beverage for relaxation."
+    },
+    {
+      "name": "Brown Rice",
+      "imgPath": "assets/brown_rice.jpg",
+      "description": "Brown rice is a whole grain that provides complex carbohydrates, promoting stable energy levels and a sense of fullness."
+    },
+    {
+      "name": "Pomegranate",
+      "imgPath": "assets/pomegranate.jpg",
+      "description": "Pomegranate is rich in antioxidants, particularly polyphenols, which may have anti-stress and anti-inflammatory effects."
+    }
+  ]
+}
